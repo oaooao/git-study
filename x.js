@@ -1,8 +1,8 @@
 const a = 1;
 const b = 2;
 
-function sum() {
+function add() {
   return a + b;
 }
 
-console.log(sum(a, b));
+console.log(add());
